@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Bikoil
 - 👀 I’m interested in games and programmes
 - 🌱 I’m currently learning lua, python and more!
+- To contact me open an issue in the Bikoil repository 
 
 <!---
 Bikoil/Bikoil is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
