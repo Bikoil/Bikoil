@@ -1,6 +1,6 @@
 # Hi, I’m Biko!
 -  I’m interested in games and programmes
-- I’m currently learning lua, python, bash and more!
+- I’m currently learning luau, python, bash and more!
 - To contact me open an issue in the Bikoil repository 
 
 # Do you want to Support me? Help me make a Roblox game!
