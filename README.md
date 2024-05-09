@@ -4,10 +4,10 @@
 - ✨ To contact me, open an issue in the Bikoil repository, [or email me](devbikoilu@gmail.com)
 
 # Do you want to Support me? Help me in my projects!
-✨ The most you can do to support me is to contribute to my projects via issues or pull requests, or maybe even [joining this discord server!](https://discord.gg/7fy9v4gRwa)
+- ✨ The most you can do to support me is to contribute to my projects via issues or pull requests, or maybe even [joining this discord server!](https://discord.gg/7fy9v4gRwa)
 I am a luau developer working on a Tower Defense Genre Roblox game, by joining you are helping our up coming game grow faster, so thank you!
 
-✨ You can also star my Repositories, like [Magicord! my OSS discord bot](https://github.com/bikoil/magicord)
+- ✨ You can also star my Repositories, like [Magicord! my OSS discord bot](https://github.com/bikoil/magicord)
 ***
 # Badges
 Here are some of the software that I use and recommend
