@@ -9,9 +9,11 @@ I am a luau developer working on a Tower Defense Genre Roblox game, by joining y
 
 - ✨ You can also star my Repositories, like [Magicord! my OSS discord bot](https://github.com/bikoil/magicord)
 ***
+
+
+***
 # Badges
 Here are some of the software that I use and recommend
-
 ### Browsers:
 
 
