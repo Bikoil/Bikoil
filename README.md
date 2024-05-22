@@ -9,7 +9,7 @@ I am a luau developer working on a Tower Defense Genre Roblox game, by joining y
 
 - ✨ You can also star my Repositories, like [Magicord! my OSS discord bot](https://github.com/bikoil/magicord)
 # Stats
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=bikoil)](https://github.com/anuraghazr/github-readme-stats)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=bikoil&show_icons=true&theme=radical)
 
 
 ***
