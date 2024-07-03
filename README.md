@@ -11,11 +11,18 @@ I am a luau developer working on a Tower Defense Genre Roblox game, by joining y
 # Stats
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=bikoil&show_icons=true&theme=radical)
 
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=bikoil&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
 
 ***
 
 
 ***
+
+*Visit Counter*
+[![](https://visitcount.itsvg.in/api?id=bikoil&icon=0&color=0)](https://visitcount.itsvg.in)
+
+
 # Badges
 Here are some of the software that I use and recommend
 ### Browsers:
