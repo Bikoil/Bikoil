@@ -1,6 +1,7 @@
 # Hi, I’m Biko!
 - ✨I’m interested in games and automated programs, and Linux/Unix
 - ✨ I’m currently learning Luau, Python, Bash and Javascript, I may learn more in the future
+- ✨ 15 yr 
 - ✨ To contact me, open an issue in the Bikoil repository, [or email me](devbikoilu@gmail.com)
 
 # Do you want to Support me? Help me in my projects!
