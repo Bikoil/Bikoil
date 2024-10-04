@@ -1,15 +1,17 @@
 # Hi, I’m Biko!
 - ✨I’m interested in games and automated programs, and Linux/Unix
-- ✨ I’m currently learning Luau, Python, Bash and Javascript, I may learn more in the future
-- ✨ To contact me, open an issue in the Bikoil repository, [or email me](devbikoilu@gmail.com)
+- ✨ I’m currently learning Lua, Golang, Shell and Typescript/Javascript, I may learn more in the future!
+- ✨ To contact me, open an issue in the Bikoil repository, [or email me](biko@atl.tools)
 - ✨ 15 yr 
 
 
 # Do you want to Support me? Help me in my projects!
-- ✨ The most you can do to support me is to contribute to my projects via issues or pull requests, or maybe even [joining this discord server!](https://discord.gg/7fy9v4gRwa)
-I am a luau developer working on a Tower Defense Genre Roblox game, by joining you are helping our up coming game grow faster, so thank you!
+- ✨ The most you can do to support me is to contribute to my projects via issues or pull requests! I heavily appreciate them as they mean much to me, so thank you!
 
-- ✨ You can also star my Repositories, like [Magicord! my OSS discord bot](https://github.com/bikoil/magicord)
+- ✨ You can also star my Repositories, like [Magicord! my OSS discord bot](https://github.com/bikoil/magicord) or [Bikfetch](https://github.com/Bikoil/Bikfetch) and more!
+
+- ✨ Supporting the organisations that I am in/work with is also heavily appreciated
+
 # Stats
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=bikoil&show_icons=true&theme=radical)
 
