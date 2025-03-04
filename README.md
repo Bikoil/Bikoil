@@ -2,7 +2,7 @@
 - ✨I’m interested in games and automated programs, and Linux/Unix
 - ✨ I’m currently learning Lua, Golang, Shell and Typescript/Javascript, I may learn more in the future!
 - ✨ To contact me, open an issue in the Bikoil repository, [or email me](biko@atl.tools)
-- ✨ 15 yr 
+- ✨ 16 yr 
 
 
 # Do you want to Support me? Help me in my projects!
